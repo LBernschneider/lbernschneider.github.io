@@ -1,2 +1,2 @@
-# lbernschneider.github.io
+# Lorenz Bernschneider
 Testing boundaries daily
